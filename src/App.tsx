@@ -1,9 +1,9 @@
 import _FieldPlugin from './components/FieldPlugin'
-import FieldPluginExample from './components/FieldPluginExample'
+import ImageKitEmbeddableML from './components/ImageKitEmbeddableML'
 import { FunctionComponent } from 'react'
 
 const App: FunctionComponent = () => {
-  return <FieldPluginExample />
+  return <ImageKitEmbeddableML />
 }
 
 export default App
