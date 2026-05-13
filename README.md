@@ -1,5 +1,8 @@
 # ImageKit Storyblok Plugin
 
+> **⚠️ Work in Progress**  
+> This plugin is under active development and **not yet production-ready**. The API may change without notice, and breaking changes may be introduced as new features are added. If you choose to use or fork this project, consider pinning to a specific commit and watch the repository for updates.
+
 A Storyblok field plugin that embeds the [ImageKit Media Library Widget](https://imagekit.io/docs/dam/embeddable-media-library-widget), allowing content editors to browse and select assets from ImageKit directly within Storyblok.
 
 ## Plugin Options
